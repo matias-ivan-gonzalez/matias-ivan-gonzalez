@@ -1,5 +1,7 @@
-### Hi there 👋
-
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/54821132/120913342-cfccb880-c66c-11eb-93dd-0eea7fad8f12.png" />
+   <h3 align="center">¡Hi there 👋! I'm Mati 🖥️</h3>
+</p>
 <!--
 **matias-ivan-gonzalez/matias-ivan-gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
