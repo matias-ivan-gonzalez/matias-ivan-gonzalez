@@ -1,6 +1,12 @@
 <p align="center" width="300">
-   <img align="center" width="200" src="https://user-images.githubusercontent.com/54821132/120913342-cfccb880-c66c-11eb-93dd-0eea7fad8f12.png" />
+   <img align="center" width="200" src="" />
    <h3 align="center">¡Hi there 👋! I'm Mati 🖥️</h3>
+</p>
+
+<p align="center">
+   <a href="">
+    <img src="https://user-images.githubusercontent.com/54821132/129295074-333e74c5-25b8-427c-a20b-9aaf8233574d.png" width="28px" height="28px" alt="matias-ivan-gonzalez"/>
+   </a>
 </p>
 <!--
 **matias-ivan-gonzalez/matias-ivan-gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
