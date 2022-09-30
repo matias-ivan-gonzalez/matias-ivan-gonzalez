@@ -9,7 +9,7 @@
    </a>
 </p>
 
-| <h4 align="center">Visitor's count :eyes:</h4>        | <h4 align="center">Top Language's</h4>           | 
+| <h4 align="center">Visitor's count :eyes:</h4>        | <h4 align="center">Top Language's</h4>           | <h4 align="center">Stats</h4>
 | ------------- |:-------------:| ------------- |
 | <p align="center"><img src="https://profile-counter.glitch.me/{matias-ivan-gonzalez}/count.svg" alt="matias-ivan-gonzalez :: Visitor's Count" /></p>     |  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matias-ivan-gonzalez&langs_count=5&theme=tokyonight&layout=compact" alt="matias-ivan-gonzalez :: Top Langs"/> | [![Mati's GitHub stats](https://github-readme-stats.vercel.app/api?username=matias-ivan-gonzalez)](https://github.com/anuraghazra/github-readme-stats) </p>
 <!--
